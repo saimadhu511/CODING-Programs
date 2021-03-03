@@ -1,3 +1,9 @@
+//##Day2 of Coding
+//----------------
+/*
+   Problem: Sorting Algorithm (Bubble sort,Selection sort,Insertion sort)
+
+*/
 #include<bits/stdc++.h>
 using namespace std;
 void bubble(int a[],int n)
